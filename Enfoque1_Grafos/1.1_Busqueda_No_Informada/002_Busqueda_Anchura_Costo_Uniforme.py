@@ -2,6 +2,7 @@
 #Es una busqueda no informada que se utiliza para encontrar el camino de costo minimo en un grafo ponderado.
 #Este expande el nodo con el menor costo aucmulado desde el nodo incial
 #UCS considera los costos variables entre los nodos, por lo que es óptimo para grafos ponderados.
+#Aplicaciones: rutas de navegación, planificación de rutas, etc.
 
 #Importamos las librerias
 import heapq #libreria para manejar colas de prioridad (colas ordenadas por costo)

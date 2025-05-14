@@ -1,6 +1,6 @@
 #Busqueda en Profundidad (depth-First Search, DFS)
 #Es un algoritmo utilizado para recorrer o buscar elementos en un grafo o árbol.
-#El algoritmo explora un camino en profundidad antes de retrocedery explorar otros caminos
+#El algoritmo explora un camino en profundidad antes de retroceder y explorar otros caminos
 #Es útil para encontrar un camino entre dos nodos o para explorar todos los nodos de un grafo.
 #Se basa en una estructura de pila (stack) para llevar un registro de los nodos visitados y los nodos por visitar 
 #El proceso termina cuando todos los nodos han sido visitados o se ha encontrado el nodo objetivo
